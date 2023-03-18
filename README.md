@@ -1,5 +1,6 @@
 # My-first-project
-netflix clone page 
+
+## Netflix clone {HTML , CSS}
 
 <img src="https://fazi160.github.io/My-first-project/photos/GH05T-HUNTER5-1.jpg">
 
